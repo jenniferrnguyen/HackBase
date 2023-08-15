@@ -1,4 +1,4 @@
-# project_h7b9x_v8k3i_x4r6m
+# HackBase
 
 ## Project Description
 The domain of our application is a hackathon. The application focuses on the overall organisation of a hackathon, which will include aspects like hackers/participants, teams, as well as staffing and other logistical aspects of the event. 
