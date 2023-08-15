@@ -5,6 +5,9 @@ The domain of our application is a hackathon. The application focuses on the ove
 
 Aspects of the domain that are modelled by our database can generally fit under two categories, those which are participant related, and those that are staffing/organisational related. Teams, projects and hackers themselves are all participant related, while judges, sponsors, volunteers as well as prizes, are all staffing related. Through our database, we look to focus on the relationship between aspects within the two categories, such as the one between hackers, volunteers and organisers. Overall, our project will address the organisation and hierarchy of competitive events. Any public event requiring teamwork and competition, such as sports tournaments, are real-life situations that fit into our domain, and thus are situations that our application could be applied to.
 
+![ER Diagram drawio](https://github.com/jenniferrnguyen/HackBase/assets/119923836/9607da28-be25-4235-a44a-65982a30bd49)
+
+
 
 ### Milestone 1
 https://docs.google.com/document/d/1FSxrVi-_gfTb3MgXVmgXlnxYQy7GhVRJkAqKEMiZYjE/edit?usp=sharing
